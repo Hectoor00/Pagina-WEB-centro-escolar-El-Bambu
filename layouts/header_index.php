@@ -1,4 +1,25 @@
-<header>
+<!doctype html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <title>Centro Escolar El Bambu</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Pagina Oficial Centro Escolar Caserio Lotificicacion El Bambu Jiquilisco" />
+  <meta name="author" content="Pagina Oficial Centro Escolar Caserio Lotificicacion El Bambu Jiquilisco" />
+  <!-- styles -->
+  <link rel="stylesheet" href="assets/css/fancybox/jquery.fancybox.css">
+  <link href="assets/css/bootstrap.css" rel="stylesheet" />
+  <link href="assets/css/bootstrap-theme.css" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/slippry.css">
+  <link href="assets/css/style.css" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/color/default.css">
+  <script src="assets/js/modernizr.custom.js"></script>
+  <link rel="shortcut icon" href="assets/img/logo.webp" type="image/x-icon">
+</head>
+
+<body>
+  <header>
 
     <div id="navigation" class="navbar navbar-inverse navbar-fixed-top default" role="navigation">
       <div class="container">
