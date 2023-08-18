@@ -206,18 +206,18 @@ function tableExists($table){
      }
 
 
-     function join_parvularia_table(){
+     function join_academica_table(){
       global $db;
       $sql  =" SELECT p.id,p.encargado,p.texto1,p.texto2";
     //  $sql  .=" AS categorie,m.file_name AS image";
-     $sql  .=" FROM parvularia p";
+     $sql  .=" FROM academica p";
     //  $sql  .=" LEFT JOIN categories c ON c.id = p.categorie_id";
     //  $sql  .=" LEFT JOIN media m ON m.id = p.media_id";
      $sql  .=" ORDER BY p.id ASC";
      return find_by_sql($sql);
  
     }
-
+   
 
 
    /*--------------------------------------------------------------*/

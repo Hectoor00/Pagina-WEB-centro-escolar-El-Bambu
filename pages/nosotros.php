@@ -32,7 +32,7 @@
       </div>
     </section>
 
-    <?php include_once('../layouts/footer.php'); ?>
+    <?php include_once('../layouts/footer_pages.php'); ?>
     
 </body>
 </html>

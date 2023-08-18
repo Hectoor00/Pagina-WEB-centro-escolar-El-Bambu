@@ -1,12 +1,14 @@
 <?php
 /*
+|--------------------------------------------------------------------------
 | APWEB
 |--------------------------------------------------------------------------
 | Author: Horas Sociales ULS Jacqueline Yajaira Coreas Rivera, Hector Esteban Ortega Argueta, Luis
 | Project Name:APWEB
 | Version: v1
 | Offcial page:
-| 
+|
+|
 |
 |
 */

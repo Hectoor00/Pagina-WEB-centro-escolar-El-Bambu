@@ -65,7 +65,7 @@
               <h5><strong>PRIMER CICLO</strong></h5>
              
               <ul class="social-profile">
-                <li><a href="pages/academica.html"><i class="fa  fa-lg"> Mas Información</i></a></li>
+                <li><a href="pages/primer_ciclo.php"><i class="fa  fa-lg"> Mas Información</i></a></li>
               </ul>
             </div>
           </div>
@@ -77,7 +77,7 @@
               <h5><strong>SEGUNDO CICLO</strong></h5>
               
               <ul class="social-profile">
-                <li><a href="pages/academica.html"><i class="fa  fa-lg"> Mas Información</i></a></li>
+                <li><a href="pages/segundo_ciclo.php"><i class="fa  fa-lg"> Mas Información</i></a></li>
               </ul>
             </div>
           </div>
@@ -89,7 +89,7 @@
               <h5><strong>TERCER CICLO</strong></h5>
               
               <ul class="social-profile">
-                <li><a href="pages/academica.html"><i class="fa  fa-lg"> Mas Información</i></a></li>
+                <li><a href="pages/tercer_ciclo.php"><i class="fa  fa-lg"> Mas Información</i></a></li>
               </ul>
             </div>
           </div>
@@ -107,13 +107,13 @@
             <h3><span>GALERIA</span></h3>
           </div>
           <div class="sub-heading">
-            <p>
-              
-Bienvenidos a nuestra encantadora galería de recuerdos escolares. Aquí, capturamos momentos inolvidables que marcan la historia de nuestra querida escuela. Desde graduaciones hasta eventos especiales, cada imagen refleja la calidez y el espíritu de nuestra comunidad educativa. Sumérgete en los pasillos del tiempo y revive momentos de camaradería, aprendizaje y crecimiento. Esta galería digital es un espacio emotivo para todos los que forman parte de nuestra comunidad escolar y una ventana abierta para aquellos que deseen conocer más sobre nuestra historia. ¡Disfruta de este viaje a través de los recuerdos en nuestra galería escolar!
+            <p>              
+              Bienvenidos a nuestra encantadora galería de recuerdos escolares. Aquí, capturamos momentos inolvidables que marcan la historia de nuestra querida escuela. Desde graduaciones hasta eventos especiales, cada imagen refleja la calidez y el espíritu de nuestra comunidad educativa. Sumérgete en los pasillos del tiempo y revive momentos de camaradería, aprendizaje y crecimiento. Esta galería digital es un espacio emotivo para todos los que forman parte de nuestra comunidad escolar y una ventana abierta para aquellos que deseen conocer más sobre nuestra historia. ¡Disfruta de este viaje a través de los recuerdos en nuestra galería escolar!
             </p>
           </div>
         </div>
       </div>
+
       <div class="row" id="seccion-cargable">
         <div class="col-md-12">
           <ul class="grid effect" id="grid">
@@ -135,7 +135,7 @@ Bienvenidos a nuestra encantadora galería de recuerdos escolares. Aquí, captur
   </section>
   <!-- section works -->
  
-  <?php include_once('layouts/footer.php'); ?>
+  <?php include_once('layouts/footer_index.php'); ?>
 </body>
 
 </html>

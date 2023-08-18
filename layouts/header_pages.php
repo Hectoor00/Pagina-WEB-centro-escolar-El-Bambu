@@ -10,9 +10,9 @@
   <link rel="stylesheet" href="../assets/css/fancybox/jquery.fancybox.css">
   <link href="../assets/css/bootstrap.css" rel="stylesheet" />
   <link href="../assets/css/bootstrap-theme.css" rel="stylesheet" />
-  <link rel="stylesheet" href="assets/css/slippry.css">
+  <link rel="stylesheet" href="../assets/css/slippry.css">
   <link href="../assets/css/style.css" rel="stylesheet" />
-  <link rel="stylesheet" href="assets/color/default.css">
+  <!-- <link rel="stylesheet" href="assets/color/default.css"> -->
   <script src="../assets/js/modernizr.custom.js"></script>
 </head>
 <body>
@@ -29,7 +29,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php"><img src="../assets/img/logo.webp" alt="Centro Escolar 'Lotificacion El Bambu'"></a>
+          <a class="navbar-brand" href="../index.php"><img src="../assets/img/logo.webp" alt="Centro Escolar 'Lotificacion El Bambu'"></a>
         </div>
         
 
